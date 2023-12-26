@@ -11,7 +11,7 @@ For more information on my professional work, you can view my publications on my
 
 ## Selected publications
 
-* _Flexible Visual Prompts for In-Context Learning in Computer Vision_. Foster T., Croitoru I., Dorfman R., Edlund C., Varsavsky T., Almazán J., R0-FoMo workshop @ NeurIPS 2023 [[Paper](https://arxiv.org/abs/2312.06592)] [[Post](https://www.v7labs.com/engineering-blog/v7-at-neurips-in-context-learning-in-computer-vision)]
+* _Flexible Visual Prompts for In-Context Learning in Computer Vision_. Foster T., Croitoru I., Dorfman R., Edlund C., Varsavsky T., Almazán J., R0-FoMo workshop NeurIPS 2023 [[Paper](https://arxiv.org/abs/2312.06592)] [[Post](https://www.v7labs.com/engineering-blog/v7-at-neurips-in-context-learning-in-computer-vision)]
 * _TLDR: Twin Learning for Dimensionality Reduction_. Kalantidis Y., Lassance C., Almazán J., Larlus D., TMLR 2022. [[Paper](https://arxiv.org/abs/2110.09455)] [[Github](https://github.com/naver/tldr)]
 * _Granularity-aware Adaptation for Image Retrieval over Multiple Tasks_. Almazán J., Ko B., Gu G., Larlus D., Kalantidis Y., ECCV 2022. [[Paper](https://arxiv.org/abs/2210.02254)] [[Project Page](https://europe.naverlabs.com/granularity-aware-adaptation-for-image-retrieval-over-multiple-tasks/)]
 * _Learning with Average Precision: Training Image Retrieval with a Listwise Loss_. Revaud J., Almazán J., Rezende R., de Souza C., ICCV 2019 [[Paper](https://arxiv.org/abs/1906.07589)] [[Github](https://github.com/naver/deep-image-retrieval)]
