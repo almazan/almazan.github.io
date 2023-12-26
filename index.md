@@ -1,6 +1,6 @@
 ## About me
 
-I am the research lead in the AI team at [V7 Labs](https://www.v7labs.com), focusing on innovative projects in computer vision and language models. Before this, I worked as a research scientist at [Naver Labs Europe](https://europe.naverlabs.com/), gaining significant experience in these areas.
+I am the research lead at [V7 Labs](https://www.v7labs.com), focusing on innovative projects in computer vision and language models. Before this, I worked as a research scientist at [Naver Labs Europe](https://europe.naverlabs.com/).
 
 My academic journey includes a Ph.D. in Computer Vision from the Universitat Autonoma de Barcelona, under the supervision of Ernest Valveny, and a postdoc at Xerox under the supervision of Florent Perronnin. My research interests are in representation learning and multi-modal models, with a focus on self-supervised learning.
 
