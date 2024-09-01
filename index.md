@@ -1,10 +1,10 @@
 ## About me
 
-I am the research lead at [V7 Labs](https://www.v7labs.com), focusing on innovative projects in computer vision and language models. Before this, I worked as a research scientist at [Naver Labs Europe](https://europe.naverlabs.com/).
+I am the research lead and applied researcher at [V7 Labs](https://www.v7labs.com), focusing on innovative projects in advanced AI, including generative models. Before this, I worked as a senior research scientist at [Naver Labs Europe](https://europe.naverlabs.com/).
 
-My academic journey includes a Ph.D. in Computer Vision from the Universitat Autonoma de Barcelona, under the supervision of Ernest Valveny, and a postdoc at Xerox under the supervision of Florent Perronnin. My research interests are in representation learning and multi-modal models, with a focus on self-supervised learning.
+My academic journey includes a Ph.D. in Computer Vision from the Universitat Autonoma de Barcelona, under the supervision of Ernest Valveny, and a postdoc at Xerox under the supervision of Florent Perronnin. My research interests lie in the fields of computer vision and machine learning, currently with a focus on representation learning, multi-modal generative models, and self-supervised problems.
 
-Outside of work, I enjoy cinema and surfing.
+Outside of work, I enjoy videogames, cinema, and surfing.
 
 For more information on my professional work, you can view my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=0dUAE_EAAAAJ&hl=en) or check out some of my projects on my [GitHub page](https://github.com/almazan).
 
