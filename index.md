@@ -2,7 +2,7 @@
 
 I am a research scientist at [Photoroom](https://www.photoroom.com), focusing on innovative projects in advanced AI, including generative models. Before this, I worked as a research scientist at [Naver Labs Europe](https://europe.naverlabs.com/) and as a research lead at [V7 Labs](https://www.v7labs.com).
 
-My academic journey includes a Ph.D. in Computer Vision from the Universitat Autonoma de Barcelona, under the supervision of Ernest Valveny, and a postdoc at Xerox under the supervision of Florent Perronnin. My research interests lie in the fields of computer vision and machine learning, currently with a focus on representation learning, multi-modal generative models, and self-supervised problems.
+My academic journey includes a Ph.D. in Computer Vision from the Universitat Autònoma de Barcelona, under the supervision of Ernest Valveny and Alicia Fornés, and a postdoc at Xerox under the supervision of Florent Perronnin. My research interests lie in the fields of computer vision and machine learning, currently with a focus on representation learning, multi-modal generative models, and self-supervised problems.
 
 Outside of work, I enjoy videogames, cinema, and surfing.
 
