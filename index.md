@@ -1,6 +1,6 @@
 ## About me
 
-I am the research lead and applied researcher at [V7 Labs](https://www.v7labs.com), focusing on innovative projects in advanced AI, including generative models. Before this, I worked as a senior research scientist at [Naver Labs Europe](https://europe.naverlabs.com/).
+I am research scients at [Photoroom](https://www.photoroom.com), focusing on innovative projects in advanced AI, including generative models. Before this, I worked as a senior research scientist at [Naver Labs Europe](https://europe.naverlabs.com/) and as a research lead at [V7 Labs](https://www.v7labs.com).
 
 My academic journey includes a Ph.D. in Computer Vision from the Universitat Autonoma de Barcelona, under the supervision of Ernest Valveny, and a postdoc at Xerox under the supervision of Florent Perronnin. My research interests lie in the fields of computer vision and machine learning, currently with a focus on representation learning, multi-modal generative models, and self-supervised problems.
 
